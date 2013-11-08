@@ -79,7 +79,7 @@ Before you start, make sure you have it installed, read the <a href="https://git
 <li>More Flambe
 
 <ul>
-<li><a href="https://github.com/markknol/flambe-guide/wiki/Changelog">Changelog</a></li>
+<li><a href="https://github.com/aduros/flambe/wiki/Changes">Changelog</a></li>
 <li><a href="https://aduros.com/flambe/api">API documentation</a></li>
 <li><a href="https://groups.google.com/forum/#!forum/flambe">Forum</a></li>
 </ul>
