@@ -88,3 +88,5 @@ Before you start, make sure you have it installed, read the <a href="https://git
 </td></tr></table>
 ---
 ##### This guide for [Flambe](https://github.com/aduros/flambe) is written by [Mark Knol](http://blog.stroep.nl/)
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/f2d69bc5179b189e834b452627aaa386 "githalytics.com")](http://githalytics.com/markknol/flambe-guide)
