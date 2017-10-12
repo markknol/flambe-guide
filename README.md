@@ -1,5 +1,7 @@
 <img src="http://help.stroep.nl/flambe/flambe.png" align="right"/>
+
 ### Flambe documentation guide
+
 **Written for Haxe / Flambe developers -**  Targeted to version 4.0+  
 
 ---
